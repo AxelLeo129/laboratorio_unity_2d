@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2710468789
+    locked: 0
+  - name: Player
+    uniqueID: 863740953
+    locked: 0
+  - name: Monster
+    uniqueID: 132659905
+    locked: 0
+  - name: Foreground
+    uniqueID: 3566576943
+    locked: 0
+  - name: Sword
+    uniqueID: 1739375663
+    locked: 0
